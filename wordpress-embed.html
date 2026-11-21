@@ -1,0 +1,31 @@
+<!-- Wolkanca WordPress Özel HTML bloğuna yapıştır.
+     GitHub Pages etkinleşmeden aşağıdaki URL canlı değildir.
+     WordPress script bölümünü temizlerse iframe sabit yükseklikle yine çalışır. -->
+<div style="width:100%;max-width:1100px;margin-inline:auto">
+  <iframe
+    id="wolkanca-zoom-quiz"
+    title="Yakınlaştırılmış Nesneyi Bul — Wolkanca Oyunları"
+    src="https://wolkanca.github.io/zoom-object-quiz/"
+    loading="lazy"
+    width="100%"
+    height="1060"
+    allow="clipboard-write"
+    referrerpolicy="strict-origin-when-cross-origin"
+    style="display:block;width:100%;min-height:720px;border:0;border-radius:18px;background:#090f1c;"
+  ></iframe>
+</div>
+<script>
+(() => {
+  const frame = document.getElementById('wolkanca-zoom-quiz');
+  if (!frame) return;
+  window.addEventListener('message', (event) => {
+    if (event.source !== frame.contentWindow) return;
+    if (event.origin !== new URL(frame.src).origin) return;
+    if (event.data?.type !== 'wolkanca-zoom-quiz:height') return;
+    const height = Number(event.data.height);
+    if (Number.isFinite(height) && height >= 450 && height <= 2200) {
+      frame.style.height = Math.ceil(height + 10) + 'px';
+    }
+  });
+})();
+</script>
