@@ -1,0 +1,574 @@
+[
+  {
+    "id": "limon",
+    "answer": "Limon",
+    "category": "Yiyecek",
+    "options": [
+      "Portakal",
+      "Mango",
+      "Limon",
+      "Ayva"
+    ],
+    "hint": "Ekşi bir mutfak klasiği.",
+    "fun": "Limonun kabuğundaki küçük gözenekler doğal yağlarla doludur.",
+    "anchor": [
+      212,
+      247
+    ],
+    "art": "<g transform=\"rotate(-27 310 295)\"><ellipse cx=\"310\" cy=\"324\" rx=\"190\" ry=\"123\" fill=\"#09172c\" opacity=\".2\" filter=\"url(#blur)\"/><ellipse cx=\"300\" cy=\"285\" rx=\"186\" ry=\"120\" fill=\"url(#yellow)\" stroke=\"#f7c93b\" stroke-width=\"7\"/><path d=\"M117 281q-35-12-34 5 2 17 34 16m367-24q34-10 35 7 0 16-37 14\" fill=\"#eac733\"/><path d=\"M191 240q112-93 233 0\" stroke=\"#fff7bf\" stroke-width=\"10\" opacity=\".7\" fill=\"none\" stroke-linecap=\"round\"/><g fill=\"#deb43c\" opacity=\".55\"><circle cx=\"265\" cy=\"280\" r=\"5\"/><circle cx=\"333\" cy=\"327\" r=\"4\"/><circle cx=\"385\" cy=\"257\" r=\"5\"/><circle cx=\"223\" cy=\"324\" r=\"4\"/><circle cx=\"367\" cy=\"301\" r=\"3\"/><circle cx=\"290\" cy=\"230\" r=\"3\"/><circle cx=\"170\" cy=\"270\" r=\"3\"/></g><path d=\"M478 280q35-64 64-44-9 42-64 44\" fill=\"#348b56\"/></g>",
+    "bg": [
+      "#193845",
+      "#0d1f29"
+    ]
+  },
+  {
+    "id": "cilek",
+    "answer": "Çilek",
+    "category": "Yiyecek",
+    "options": [
+      "Ahududu",
+      "Çilek",
+      "Nar",
+      "Kiraz"
+    ],
+    "hint": "Tatlılarda sıkça kullanılır.",
+    "fun": "Çileğin üzerindeki sarı noktalar, bitkinin gerçek meyvecikleridir.",
+    "anchor": [
+      248,
+      290
+    ],
+    "art": "<path d=\"M290 185C178 166 145 278 198 393q65 139 103 147 47-18 112-148c68-139 7-242-123-207Z\" fill=\"url(#red)\" stroke=\"#a72b39\" stroke-width=\"8\"/><path d=\"M290 188q-76-76-114-44 6 42 75 67-72-2-88 35 52 38 121 4-4 63 34 71 37-46 19-72 67 21 97-20-29-44-96-19 81-43 62-81-41-27-110 59\" fill=\"#438e51\" stroke=\"#2b754b\" stroke-width=\"7\"/><path d=\"M302 179q-2-49 25-77\" stroke=\"#316746\" stroke-width=\"16\" fill=\"none\" stroke-linecap=\"round\"/><g fill=\"#ffe6a1\" stroke=\"#bb6d43\" stroke-width=\"2\"><ellipse cx=\"227\" cy=\"284\" rx=\"6\" ry=\"11\" transform=\"rotate(-23 227 284)\"/><ellipse cx=\"292\" cy=\"299\" rx=\"6\" ry=\"11\"/><ellipse cx=\"366\" cy=\"290\" rx=\"6\" ry=\"11\" transform=\"rotate(23 366 290)\"/><ellipse cx=\"248\" cy=\"365\" rx=\"6\" ry=\"11\" transform=\"rotate(-15 248 365)\"/><ellipse cx=\"314\" cy=\"374\" rx=\"6\" ry=\"11\"/><ellipse cx=\"374\" cy=\"359\" rx=\"6\" ry=\"11\" transform=\"rotate(20 374 359)\"/><ellipse cx=\"281\" cy=\"442\" rx=\"6\" ry=\"11\"/><ellipse cx=\"334\" cy=\"452\" rx=\"6\" ry=\"11\"/><ellipse cx=\"298\" cy=\"501\" rx=\"5\" ry=\"8\"/></g><path d=\"M212 253q-26 45-8 85\" stroke=\"#ff9ca0\" stroke-width=\"13\" opacity=\".5\" fill=\"none\" stroke-linecap=\"round\"/>",
+    "bg": [
+      "#4e182b",
+      "#26121e"
+    ]
+  },
+  {
+    "id": "avokado",
+    "answer": "Avokado",
+    "category": "Yiyecek",
+    "options": [
+      "Armut",
+      "Avokado",
+      "Kivi",
+      "Kabak"
+    ],
+    "hint": "İçinde kocaman bir çekirdek saklar.",
+    "fun": "Avokado botanik açıdan tek çekirdekli bir meyvedir.",
+    "anchor": [
+      247,
+      289
+    ],
+    "art": "<g transform=\"rotate(16 300 300)\"><path d=\"M296 72Q218 71 210 170q-4 46-49 105-94 116-48 208 47 87 188 87 139 0 184-92 42-92-50-203-52-65-49-112Q382 72 296 72Z\" fill=\"#244f35\" stroke=\"#153920\" stroke-width=\"8\"/><path d=\"M298 97Q235 95 235 176q0 49-52 110-81 113-43 180 41 73 159 75 121 0 160-75 35-75-47-182-49-62-49-110-3-79-65-77Z\" fill=\"#9fcf58\" stroke=\"#d7ea8c\" stroke-width=\"13\"/><ellipse cx=\"300\" cy=\"377\" rx=\"103\" ry=\"117\" fill=\"#78513a\" stroke=\"#54372a\" stroke-width=\"9\"/><ellipse cx=\"278\" cy=\"347\" rx=\"66\" ry=\"81\" fill=\"#aa7a53\" opacity=\".8\"/><path d=\"M245 203q42-22 80-3\" fill=\"none\" stroke=\"#f2ffbc\" stroke-width=\"12\" opacity=\".8\" stroke-linecap=\"round\"/></g>",
+    "bg": [
+      "#314b31",
+      "#152a25"
+    ]
+  },
+  {
+    "id": "donut",
+    "answer": "Donut",
+    "category": "Yiyecek",
+    "options": [
+      "Simit",
+      "Donut",
+      "Kruvasan",
+      "Kurabiye"
+    ],
+    "hint": "Üstü genellikle şekerlemelerle süslenir.",
+    "fun": "Ortası delik bu tatlı hamur işi yağda kızartılarak yapılabilir.",
+    "anchor": [
+      293,
+      289
+    ],
+    "art": "<ellipse cx=\"314\" cy=\"369\" rx=\"200\" ry=\"171\" fill=\"#101127\" opacity=\".4\" filter=\"url(#blur)\"/><circle cx=\"300\" cy=\"295\" r=\"207\" fill=\"#a76c3a\" stroke=\"#8f5a31\" stroke-width=\"7\"/><circle cx=\"300\" cy=\"279\" r=\"192\" fill=\"url(#pink)\"/><circle cx=\"300\" cy=\"293\" r=\"72\" fill=\"#a56940\"/><circle cx=\"300\" cy=\"293\" r=\"60\" fill=\"#392034\"/><path d=\"M108 277q20 28 29 17 35-34 63-7 35 20 59-11 26-38 67-19 40 20 67-9 32-28 59 0\" fill=\"none\" stroke=\"#ffe3f1\" stroke-width=\"9\" opacity=\".55\" stroke-linecap=\"round\"/><g stroke-width=\"8\" stroke-linecap=\"round\"><path d=\"M170 210l23 17\" stroke=\"#9cffd5\"/><path d=\"M354 156l25-15\" stroke=\"#f5e779\"/><path d=\"M430 284l-18 25\" stroke=\"#9ddcfe\"/><path d=\"M234 410l-23-16\" stroke=\"#f8e27c\"/><path d=\"M351 407l12-24\" stroke=\"#a6fce8\"/><path d=\"M150 337l15-23\" stroke=\"#ffef9a\"/><path d=\"M291 149l-11 26\" stroke=\"#9ddcfe\"/><path d=\"M451 375l-23-14\" stroke=\"#8effd0\"/><path d=\"M241 177l10-29\" stroke=\"#fff9d0\"/><path d=\"M171 382l22 12\" stroke=\"#a5e9ff\"/></g>",
+    "bg": [
+      "#41253c",
+      "#241323"
+    ]
+  },
+  {
+    "id": "kahve",
+    "answer": "Kahve fincanı",
+    "category": "Yiyecek",
+    "options": [
+      "Çay bardağı",
+      "Kahve fincanı",
+      "Kupa",
+      "Çorba kasesi"
+    ],
+    "hint": "Güne başlarken masaya uğrar.",
+    "fun": "Bir fincan kahvenin üstündeki ince köpük ve yansımalar ışığa göre değişir.",
+    "anchor": [
+      289,
+      222
+    ],
+    "art": "<ellipse cx=\"303\" cy=\"506\" rx=\"211\" ry=\"39\" fill=\"#0d1a32\" opacity=\".35\"/><path d=\"M424 244q126-36 126 88 0 122-145 113\" stroke=\"#e5dfd6\" stroke-width=\"43\" fill=\"none\"/><path d=\"M426 244q112-26 109 89-7 83-103 79\" stroke=\"#8e978f\" stroke-width=\"8\" fill=\"none\"/><path d=\"M150 229h293l-30 220q-17 58-116 60-103 0-120-65Z\" fill=\"url(#ceramic)\" stroke=\"#b6c1bf\" stroke-width=\"8\"/><ellipse cx=\"296\" cy=\"234\" rx=\"155\" ry=\"48\" fill=\"#f5f4e9\"/><ellipse cx=\"296\" cy=\"235\" rx=\"137\" ry=\"35\" fill=\"#603a27\"/><path d=\"M218 228q48-31 112-5 35 12 72-1\" fill=\"none\" stroke=\"#b57b50\" stroke-width=\"11\" opacity=\".7\"/><ellipse cx=\"272\" cy=\"222\" rx=\"41\" ry=\"9\" fill=\"#f6e3b6\" opacity=\".56\"/><path d=\"M226 158q-27-32 5-59m79 72q-21-39 10-79m58 68q-21-25 5-62\" stroke=\"#f6f9ed\" stroke-width=\"10\" opacity=\".7\" fill=\"none\" stroke-linecap=\"round\"/>",
+    "bg": [
+      "#31444d",
+      "#1c263c"
+    ]
+  },
+  {
+    "id": "ananas",
+    "answer": "Ananas",
+    "category": "Yiyecek",
+    "options": [
+      "Ananas",
+      "Mısır",
+      "Kavun",
+      "Kabak"
+    ],
+    "hint": "Tropikal bir meyve.",
+    "fun": "Ananas, bir araya gelmiş çok sayıda küçük meyvenin oluşturduğu bileşik bir yapıdır.",
+    "anchor": [
+      306,
+      345
+    ],
+    "art": "<path d=\"M302 210q-93-155-41-193 65 80 62 170 28-153 90-137 16 91-67 153 117-92 144-41-44 82-153 91 73-27 84 22-77 45-125 5-112 36-151-16 26-48 109-8-103-69-89-120 60-24 135 75\" fill=\"#39894c\" stroke=\"#2a653f\" stroke-width=\"7\"/><path d=\"M170 251q6-54 135-58 133 3 146 62l-20 209q-14 72-130 79-115-7-131-79Z\" fill=\"url(#gold)\" stroke=\"#c47c29\" stroke-width=\"9\"/><g stroke=\"#bc7a28\" stroke-width=\"9\" opacity=\".85\"><path d=\"M155 295l285 189M163 362l225 155M191 247l252 164M448 282L165 470M450 346L196 522M414 231L157 406\"/></g><g fill=\"#7caa42\"><circle cx=\"248\" cy=\"317\" r=\"9\"/><circle cx=\"356\" cy=\"306\" r=\"9\"/><circle cx=\"302\" cy=\"393\" r=\"9\"/><circle cx=\"230\" cy=\"425\" r=\"9\"/><circle cx=\"370\" cy=\"443\" r=\"9\"/></g>",
+    "bg": [
+      "#345144",
+      "#192d27"
+    ]
+  },
+  {
+    "id": "dondurma",
+    "answer": "Dondurma",
+    "category": "Yiyecek",
+    "options": [
+      "Dondurma",
+      "Milkshake",
+      "Krem şanti",
+      "Pasta"
+    ],
+    "hint": "Yazın erimeden yenmesi lazım.",
+    "fun": "Külahın üzerindeki baklava deseni, yüzeyin tutuşunu ve dokusunu artırır.",
+    "anchor": [
+      298,
+      234
+    ],
+    "art": "<path d=\"M193 292L301 560 408 292Z\" fill=\"#c98644\" stroke=\"#8f5b31\" stroke-width=\"10\"/><g stroke=\"#a96a32\" stroke-width=\"9\" opacity=\".8\"><path d=\"M205 314l157 127M224 369l111 90M251 438l53 45M396 314L239 441M371 367L269 449M344 432l-52 40\"/></g><circle cx=\"245\" cy=\"247\" r=\"103\" fill=\"#f1a9c0\" stroke=\"#e58daa\" stroke-width=\"7\"/><circle cx=\"356\" cy=\"248\" r=\"99\" fill=\"#ffeda4\" stroke=\"#f3d47d\" stroke-width=\"8\"/><circle cx=\"303\" cy=\"177\" r=\"109\" fill=\"#c5e5ba\" stroke=\"#8dccab\" stroke-width=\"8\"/><path d=\"M239 117q56-33 123 0\" fill=\"none\" stroke=\"#edffdd\" stroke-width=\"13\" stroke-linecap=\"round\"/><path d=\"M195 231q30-39 59-6m102 10q38-44 66-7\" fill=\"none\" stroke=\"#fff7df\" stroke-width=\"11\" opacity=\".5\" stroke-linecap=\"round\"/>",
+    "bg": [
+      "#634042",
+      "#282138"
+    ]
+  },
+  {
+    "id": "fotograf-makinesi",
+    "answer": "Fotoğraf makinesi",
+    "category": "Teknoloji",
+    "options": [
+      "Radyo",
+      "Fotoğraf makinesi",
+      "Projektör",
+      "Dürbün"
+    ],
+    "hint": "Göz kırpan bir cihaz ama kirpik yok.",
+    "fun": "Objektifin içindeki cam elemanlar ışığı odaklayarak görüntü oluşturur.",
+    "anchor": [
+      218,
+      299
+    ],
+    "art": "<rect x=\"90\" y=\"185\" width=\"420\" height=\"297\" rx=\"54\" fill=\"#293e5c\" stroke=\"#0f223b\" stroke-width=\"12\"/><rect x=\"120\" y=\"156\" width=\"145\" height=\"45\" rx=\"13\" fill=\"#4b607a\"/><rect x=\"408\" y=\"204\" width=\"70\" height=\"35\" rx=\"11\" fill=\"#ffe69c\"/><rect x=\"113\" y=\"226\" width=\"380\" height=\"223\" rx=\"25\" fill=\"#314861\"/><circle cx=\"303\" cy=\"330\" r=\"141\" fill=\"#19253f\" stroke=\"#a2a9c0\" stroke-width=\"17\"/><circle cx=\"303\" cy=\"330\" r=\"111\" fill=\"#0b1024\" stroke=\"#415479\" stroke-width=\"21\"/><circle cx=\"303\" cy=\"330\" r=\"82\" fill=\"url(#lens)\" stroke=\"#596c91\" stroke-width=\"11\"/><circle cx=\"303\" cy=\"330\" r=\"44\" fill=\"#0b192b\" stroke=\"#182e53\" stroke-width=\"11\"/><ellipse cx=\"270\" cy=\"299\" rx=\"35\" ry=\"23\" fill=\"#c0edff\" opacity=\".3\" transform=\"rotate(-36 270 299)\"/><circle cx=\"443\" cy=\"251\" r=\"12\" fill=\"#ff647f\"/>",
+    "bg": [
+      "#253a5a",
+      "#101a2c"
+    ]
+  },
+  {
+    "id": "kulaklik",
+    "answer": "Kulaklık",
+    "category": "Teknoloji",
+    "options": [
+      "Kulaklık",
+      "Mikrofon",
+      "Hoparlör",
+      "Radyo"
+    ],
+    "hint": "İki kulağa aynı anda konuk olur.",
+    "fun": "Kulak üstü kulaklıklar ses yalıtımına yardımcı olacak şekilde tasarlanabilir.",
+    "anchor": [
+      177,
+      360
+    ],
+    "art": "<path d=\"M153 374V256q0-173 148-173 148 0 148 173v120\" fill=\"none\" stroke=\"#1d2c49\" stroke-width=\"63\" stroke-linecap=\"round\"/><path d=\"M164 247q3-139 137-139 135 0 135 139\" fill=\"none\" stroke=\"#7cf7b0\" stroke-width=\"17\" opacity=\".8\" stroke-linecap=\"round\"/><rect x=\"104\" y=\"306\" width=\"119\" height=\"205\" rx=\"49\" fill=\"#293d63\" stroke=\"#0a1e39\" stroke-width=\"10\"/><rect x=\"377\" y=\"306\" width=\"119\" height=\"205\" rx=\"49\" fill=\"#293d63\" stroke=\"#0a1e39\" stroke-width=\"10\"/><rect x=\"153\" y=\"323\" width=\"66\" height=\"170\" rx=\"30\" fill=\"#111c34\"/><rect x=\"378\" y=\"323\" width=\"66\" height=\"170\" rx=\"30\" fill=\"#111c34\"/><rect x=\"112\" y=\"336\" width=\"42\" height=\"138\" rx=\"21\" fill=\"#90b8d5\" opacity=\".55\"/><rect x=\"448\" y=\"336\" width=\"42\" height=\"138\" rx=\"21\" fill=\"#90b8d5\" opacity=\".55\"/>",
+    "bg": [
+      "#1c314c",
+      "#0c172b"
+    ]
+  },
+  {
+    "id": "bisiklet-tekerlegi",
+    "answer": "Bisiklet tekerleği",
+    "category": "Teknoloji",
+    "options": [
+      "Araba lastiği",
+      "Dişli çark",
+      "Bisiklet tekerleği",
+      "Vantilatör"
+    ],
+    "hint": "Dönerek yol alır.",
+    "fun": "Jant telleri, tekerlekteki yükü dağıtacak biçimde gerilim altında çalışır.",
+    "anchor": [
+      305,
+      303
+    ],
+    "art": "<circle cx=\"300\" cy=\"304\" r=\"242\" fill=\"none\" stroke=\"#111e32\" stroke-width=\"47\"/><circle cx=\"300\" cy=\"304\" r=\"230\" fill=\"none\" stroke=\"#a3abb9\" stroke-width=\"12\"/><circle cx=\"300\" cy=\"304\" r=\"216\" fill=\"none\" stroke=\"#55697d\" stroke-width=\"6\"/>\n<g stroke=\"#c9e1e0\" stroke-width=\"4\" opacity=\".8\"><path d=\"M300 80V527M80 304H520M145 149L455 459M455 149L145 459M214 96L386 512M386 96L214 512M93 218L507 390M93 390L507 218M145 459l310-310M250 86l100 436\"/></g><circle cx=\"300\" cy=\"304\" r=\"32\" fill=\"#63768c\" stroke=\"#172a43\" stroke-width=\"9\"/><circle cx=\"300\" cy=\"304\" r=\"11\" fill=\"#d8e2eb\"/><path d=\"M300 304l78-73 40 35\" stroke=\"#efaa5e\" stroke-width=\"15\" fill=\"none\" stroke-linecap=\"round\"/>",
+    "bg": [
+      "#224357",
+      "#10253b"
+    ]
+  },
+  {
+    "id": "ampul",
+    "answer": "Ampul",
+    "category": "Teknoloji",
+    "options": [
+      "Masa lambası",
+      "Ampul",
+      "El feneri",
+      "Büyüteç"
+    ],
+    "hint": "Bir fikir geldiğinde kafanın üstünde belirir.",
+    "fun": "Modern LED ampuller aynı aydınlatma için akkor ampullere göre daha az enerji tüketebilir.",
+    "anchor": [
+      275,
+      360
+    ],
+    "art": "<path d=\"M299 64C185 64 134 152 145 250c6 59 41 98 80 146l20 71h111l20-71c41-50 78-92 80-153C463 146 415 64 299 64Z\" fill=\"url(#glass)\" stroke=\"#9fd5e8\" stroke-width=\"12\"/><path d=\"M212 144q-55 70-28 133\" fill=\"none\" stroke=\"#fff\" stroke-width=\"20\" opacity=\".5\" stroke-linecap=\"round\"/><path d=\"M245 375q51-64 57-8 9-60 54 8\" stroke=\"#ffba69\" stroke-width=\"15\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M257 456v-119m92 119V337\" stroke=\"#e6a15a\" stroke-width=\"10\"/><rect x=\"240\" y=\"434\" width=\"121\" height=\"99\" rx=\"17\" fill=\"#a8b9cf\" stroke=\"#526778\" stroke-width=\"8\"/><g stroke=\"#607a94\" stroke-width=\"11\"><path d=\"M244 458h114M243 487h114M249 516h105\"/></g><rect x=\"275\" y=\"527\" width=\"50\" height=\"20\" rx=\"9\" fill=\"#4e6077\"/>",
+    "bg": [
+      "#30495c",
+      "#122c43"
+    ]
+  },
+  {
+    "id": "mikrofon",
+    "answer": "Mikrofon",
+    "category": "Teknoloji",
+    "options": [
+      "Mikrofon",
+      "Tıraş makinesi",
+      "Hoparlör",
+      "Termos"
+    ],
+    "hint": "Konuşanın sesini yakalar.",
+    "fun": "Mikrofon, ses dalgalarını elektrik sinyaline dönüştüren bir dönüştürücüdür.",
+    "anchor": [
+      289,
+      217
+    ],
+    "art": "<rect x=\"218\" y=\"65\" width=\"170\" height=\"295\" rx=\"84\" fill=\"#536779\" stroke=\"#17293e\" stroke-width=\"12\"/><rect x=\"240\" y=\"86\" width=\"126\" height=\"257\" rx=\"63\" fill=\"url(#metal)\"/><g stroke=\"#435c75\" stroke-width=\"7\" opacity=\".72\"><path d=\"M250 126h106M243 160h122M243 193h122M243 226h122M243 260h122M250 295h107\"/></g><path d=\"M185 261v89q0 130 114 136 116 0 116-136v-89\" stroke=\"#ffba78\" stroke-width=\"21\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M301 477v67m-88 0h176\" stroke=\"#b6c9d8\" stroke-width=\"26\" fill=\"none\" stroke-linecap=\"round\"/>",
+    "bg": [
+      "#26344d",
+      "#131b30"
+    ]
+  },
+  {
+    "id": "kaset",
+    "answer": "Kaset",
+    "category": "Teknoloji",
+    "options": [
+      "Disket",
+      "Kaset",
+      "Radyo",
+      "Pil"
+    ],
+    "hint": "Müzik dinlemenin nostaljik yolu.",
+    "fun": "Kaset içindeki manyetik bant, analog ses bilgisini saklamak için kullanılır.",
+    "anchor": [
+      209,
+      342
+    ],
+    "art": "<rect x=\"67\" y=\"169\" width=\"466\" height=\"275\" rx=\"30\" fill=\"#313c58\" stroke=\"#0c1628\" stroke-width=\"13\"/><rect x=\"91\" y=\"193\" width=\"419\" height=\"225\" rx=\"16\" fill=\"#445573\"/><rect x=\"102\" y=\"207\" width=\"396\" height=\"77\" rx=\"13\" fill=\"#f8b766\"/><path d=\"M120 234h359M120 256h359\" stroke=\"#d66f57\" stroke-width=\"10\" opacity=\".7\"/><rect x=\"139\" y=\"299\" width=\"325\" height=\"87\" rx=\"13\" fill=\"#c9d4d7\" stroke=\"#8c9aa4\" stroke-width=\"7\"/><g><circle cx=\"209\" cy=\"342\" r=\"40\" fill=\"#46516c\"/><circle cx=\"391\" cy=\"342\" r=\"40\" fill=\"#46516c\"/><circle cx=\"209\" cy=\"342\" r=\"18\" fill=\"#bdcbd1\"/><circle cx=\"391\" cy=\"342\" r=\"18\" fill=\"#bdcbd1\"/><path d=\"M249 342h102\" stroke=\"#9c614b\" stroke-width=\"12\"/></g><path d=\"M113 438l-15 40h404l-15-40\" fill=\"#222f44\"/>",
+    "bg": [
+      "#3c344f",
+      "#1b1e35"
+    ]
+  },
+  {
+    "id": "oyun-kolu",
+    "answer": "Oyun kolu",
+    "category": "Teknoloji",
+    "options": [
+      "Kumanda",
+      "Oyun kolu",
+      "Hesap makinesi",
+      "Klavye"
+    ],
+    "hint": "Bazen ellerde bütün dünyayı yönetir.",
+    "fun": "Oyun kollarında analog çubuklar çok yönlü giriş sağlar.",
+    "anchor": [
+      387,
+      323
+    ],
+    "art": "<path d=\"M180 215q-74 3-103 95L46 439q-14 73 57 88 39 8 76-45l48-55h146l48 55q37 53 76 45 71-15 57-88l-31-129q-29-92-103-95Z\" fill=\"url(#metal)\" stroke=\"#243147\" stroke-width=\"13\"/><path d=\"M194 248h213\" stroke=\"#e8f1f6\" stroke-width=\"13\" stroke-linecap=\"round\" opacity=\".6\"/><path d=\"M180 291v115m-58-57h115\" stroke=\"#263d52\" stroke-width=\"27\" stroke-linecap=\"round\"/><circle cx=\"380\" cy=\"303\" r=\"24\" fill=\"#fa6589\"/><circle cx=\"438\" cy=\"340\" r=\"24\" fill=\"#7dffb6\"/><circle cx=\"385\" cy=\"379\" r=\"24\" fill=\"#ffd76f\"/><circle cx=\"339\" cy=\"344\" r=\"21\" fill=\"#91a8ff\"/><circle cx=\"241\" cy=\"428\" r=\"32\" fill=\"#28364f\"/><circle cx=\"328\" cy=\"428\" r=\"32\" fill=\"#28364f\"/><circle cx=\"241\" cy=\"428\" r=\"16\" fill=\"#4e6281\"/><circle cx=\"328\" cy=\"428\" r=\"16\" fill=\"#4e6281\"/>",
+    "bg": [
+      "#233752",
+      "#111b35"
+    ]
+  },
+  {
+    "id": "anahtar",
+    "answer": "Anahtar",
+    "category": "Eşya",
+    "options": [
+      "Anahtar",
+      "Makas",
+      "Tornavida",
+      "Fermuar"
+    ],
+    "hint": "Kapılarla özel bir ilişkisi var.",
+    "fun": "Mekanik kilitlerde anahtarın dişleri kilit içindeki parçaları doğru hizaya getirir.",
+    "anchor": [
+      330,
+      379
+    ],
+    "art": "<g transform=\"rotate(-36 302 300)\"><circle cx=\"300\" cy=\"154\" r=\"92\" fill=\"none\" stroke=\"#e8af55\" stroke-width=\"57\"/><circle cx=\"300\" cy=\"154\" r=\"53\" fill=\"#253b4d\"/><path d=\"M301 244v277h47v-43h44v-43h-44v-35h50v-49h-50V244Z\" fill=\"url(#gold)\" stroke=\"#aa7131\" stroke-width=\"10\"/><path d=\"M290 272v212\" stroke=\"#ffedab\" stroke-width=\"12\" opacity=\".7\" stroke-linecap=\"round\"/></g>",
+    "bg": [
+      "#304453",
+      "#182639"
+    ]
+  },
+  {
+    "id": "semsiye",
+    "answer": "Şemsiye",
+    "category": "Eşya",
+    "options": [
+      "Şapka",
+      "Şemsiye",
+      "Çadır",
+      "Yelpaze"
+    ],
+    "hint": "Yağmurlu havada açılır.",
+    "fun": "Kubbeli yapısı yağmur damlalarını kenarlara yönlendirir.",
+    "anchor": [
+      184,
+      287
+    ],
+    "art": "<path d=\"M300 85q-208 18-228 263 59-44 110 0 60-51 118 0 63-51 120 0 55-44 108 0Q511 104 300 85Z\" fill=\"url(#pink)\" stroke=\"#f9afc0\" stroke-width=\"10\"/><path d=\"M300 85q-92 86-118 263m118-263v263m0-263q98 91 120 263\" fill=\"none\" stroke=\"#ffb6cb\" stroke-width=\"7\"/><path d=\"M300 348v140q0 81-58 81-54 0-54-59\" fill=\"none\" stroke=\"#e2f6fa\" stroke-width=\"19\" stroke-linecap=\"round\"/><path d=\"M300 84V62\" stroke=\"#e2f6fa\" stroke-width=\"13\" stroke-linecap=\"round\"/><g stroke=\"#80bce8\" stroke-width=\"7\" stroke-linecap=\"round\" opacity=\".8\"><path d=\"M103 95l-9 23M492 79l13 22M484 452l-6 25M124 427l-10 25\"/></g>",
+    "bg": [
+      "#344463",
+      "#162338"
+    ]
+  },
+  {
+    "id": "boya-fircasi",
+    "answer": "Boya fırçası",
+    "category": "Eşya",
+    "options": [
+      "Kalem",
+      "Boya fırçası",
+      "Diş fırçası",
+      "Tornavida"
+    ],
+    "hint": "Renklerle çalışmayı sever.",
+    "fun": "Kıl uçların yapısı boya tutma kapasitesini etkiler.",
+    "anchor": [
+      286,
+      215
+    ],
+    "art": "<g transform=\"rotate(35 297 300)\"><path d=\"M224 55q79-36 146 0l-24 165H246Z\" fill=\"#ffb57e\"/><g stroke=\"#e87d55\" stroke-width=\"9\"><path d=\"M251 77l-6 126M285 58v151M329 68l6 135\"/></g><rect x=\"234\" y=\"197\" width=\"127\" height=\"73\" rx=\"12\" fill=\"url(#metal)\" stroke=\"#61748d\" stroke-width=\"8\"/><g stroke=\"#95acbd\" stroke-width=\"7\"><path d=\"M249 218h94M249 247h94\"/></g><rect x=\"254\" y=\"265\" width=\"86\" height=\"290\" rx=\"24\" fill=\"#b76848\" stroke=\"#7a392c\" stroke-width=\"9\"/><path d=\"M280 294v210\" stroke=\"#efb77c\" stroke-width=\"14\" stroke-linecap=\"round\" opacity=\".6\"/></g>",
+    "bg": [
+      "#3a3c56",
+      "#21243d"
+    ]
+  },
+  {
+    "id": "makas",
+    "answer": "Makas",
+    "category": "Eşya",
+    "options": [
+      "Maşa",
+      "Makas",
+      "Pense",
+      "Cımbız"
+    ],
+    "hint": "İki parça, tek kesme hareketi.",
+    "fun": "Makas birinci tür kaldıraç prensibine dayanan basit bir makinedir.",
+    "anchor": [
+      297,
+      307
+    ],
+    "art": "<g transform=\"rotate(18 300 300)\"><path d=\"M265 325L100 73Q77 34 115 25q38-5 54 28l137 244\" fill=\"#dce4eb\" stroke=\"#627889\" stroke-width=\"12\"/><path d=\"M335 325L504 73q23-39-15-48-38-5-54 28L294 297\" fill=\"#9aaebe\" stroke=\"#617487\" stroke-width=\"12\"/><path d=\"M265 324L211 469\" stroke=\"#c5d4e4\" stroke-width=\"34\"/><path d=\"M335 324l54 145\" stroke=\"#c5d4e4\" stroke-width=\"34\"/><ellipse cx=\"187\" cy=\"497\" rx=\"68\" ry=\"62\" fill=\"none\" stroke=\"#ffbf7b\" stroke-width=\"30\"/><ellipse cx=\"413\" cy=\"497\" rx=\"68\" ry=\"62\" fill=\"none\" stroke=\"#ffbf7b\" stroke-width=\"30\"/><circle cx=\"300\" cy=\"313\" r=\"22\" fill=\"#fdba77\" stroke=\"#83543b\" stroke-width=\"7\"/></g>",
+    "bg": [
+      "#3c364a",
+      "#181e33"
+    ]
+  },
+  {
+    "id": "saat",
+    "answer": "Kol saati",
+    "category": "Eşya",
+    "options": [
+      "Duvar saati",
+      "Pusula",
+      "Kol saati",
+      "Kronometre"
+    ],
+    "hint": "Bilekte taşınan zamanı gösterir.",
+    "fun": "Mekanik saatler enerjiyi yaydan, kuvars saatler pilden alabilir.",
+    "anchor": [
+      299,
+      290
+    ],
+    "art": "<rect x=\"233\" y=\"12\" width=\"134\" height=\"580\" rx=\"36\" fill=\"#a77d60\" stroke=\"#684d3d\" stroke-width=\"10\"/><g stroke=\"#bd9373\" stroke-width=\"8\"><path d=\"M247 77h108M247 510h108M247 546h108\"/></g><circle cx=\"300\" cy=\"307\" r=\"204\" fill=\"#c2b19e\" stroke=\"#5d6870\" stroke-width=\"18\"/><circle cx=\"300\" cy=\"307\" r=\"179\" fill=\"#f3e8d6\" stroke=\"#a4a0a0\" stroke-width=\"9\"/><g stroke=\"#566573\" stroke-width=\"10\" stroke-linecap=\"round\"><path d=\"M300 145v25M300 442v26M139 307h27M433 307h27M184 191l18 18M414 419l-18-18M414 193l-18 18M184 419l18-18\"/></g><path d=\"M300 307l-6-109M300 307l84 59\" stroke=\"#273447\" stroke-width=\"14\" stroke-linecap=\"round\"/><path d=\"M300 307l69-139\" stroke=\"#ed756b\" stroke-width=\"6\"/><circle cx=\"300\" cy=\"307\" r=\"17\" fill=\"#ee806b\"/>",
+    "bg": [
+      "#313f53",
+      "#152238"
+    ]
+  },
+  {
+    "id": "pusula",
+    "answer": "Pusula",
+    "category": "Eşya",
+    "options": [
+      "Pusula",
+      "Kol saati",
+      "Higrometre",
+      "Termometre"
+    ],
+    "hint": "Yön bulmak için kullanılır.",
+    "fun": "Manyetik pusula iğnesi Dünya’nın manyetik alanına göre hizalanır.",
+    "anchor": [
+      300,
+      307
+    ],
+    "art": "<circle cx=\"300\" cy=\"303\" r=\"228\" fill=\"#d4ad69\" stroke=\"#7a603d\" stroke-width=\"15\"/><circle cx=\"300\" cy=\"303\" r=\"195\" fill=\"#f5e8bc\" stroke=\"#a48358\" stroke-width=\"10\"/><circle cx=\"300\" cy=\"303\" r=\"161\" fill=\"#e9e6cf\" stroke=\"#768e86\" stroke-width=\"6\"/><path d=\"M300 118l-55 183 55 180 55-180Z\" fill=\"#f16666\" stroke=\"#8a3845\" stroke-width=\"9\"/><path d=\"M300 301l-55 0 55 180 55-180Z\" fill=\"#4d739b\" stroke=\"#32506c\" stroke-width=\"5\"/><circle cx=\"300\" cy=\"301\" r=\"17\" fill=\"#f1c67c\" stroke=\"#6e583a\" stroke-width=\"7\"/><g fill=\"#516773\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"800\" text-anchor=\"middle\"><text x=\"300\" y=\"170\">N</text><text x=\"300\" y=\"458\">S</text><text x=\"156\" y=\"314\">W</text><text x=\"445\" y=\"314\">E</text></g>",
+    "bg": [
+      "#354345",
+      "#17272e"
+    ]
+  },
+  {
+    "id": "basketbol",
+    "answer": "Basketbol topu",
+    "category": "Eşya",
+    "options": [
+      "Voleybol topu",
+      "Futbol topu",
+      "Basketbol topu",
+      "Tenis topu"
+    ],
+    "hint": "Potanın yolunu iyi bilir.",
+    "fun": "Basketbol toplarının üzerindeki oluklar kavramayı kolaylaştırır.",
+    "anchor": [
+      299,
+      302
+    ],
+    "art": "<circle cx=\"300\" cy=\"305\" r=\"223\" fill=\"url(#orange)\" stroke=\"#9b4b2e\" stroke-width=\"9\"/><g stroke=\"#542f29\" stroke-width=\"15\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M81 305h438M300 82v446M152 140q251 160 0 330M448 140q-251 160 0 330\"/></g><ellipse cx=\"235\" cy=\"190\" rx=\"75\" ry=\"28\" fill=\"#ffe6b0\" opacity=\".2\" transform=\"rotate(-45 235 190)\"/><g fill=\"#aa5b34\" opacity=\".35\"><circle cx=\"390\" cy=\"244\" r=\"3\"/><circle cx=\"367\" cy=\"222\" r=\"3\"/><circle cx=\"335\" cy=\"273\" r=\"3\"/><circle cx=\"395\" cy=\"345\" r=\"3\"/><circle cx=\"238\" cy=\"367\" r=\"3\"/></g>",
+    "bg": [
+      "#4b3336",
+      "#231c2b"
+    ]
+  },
+  {
+    "id": "kaktus",
+    "answer": "Kaktüs",
+    "category": "Doğa",
+    "options": [
+      "Kaktüs",
+      "Aloe vera",
+      "Bambu",
+      "Çam ağacı"
+    ],
+    "hint": "Çöllerle özdeşleşmiş bir bitki.",
+    "fun": "Kaktüslerdeki dikenler değişime uğramış yapraklardır.",
+    "anchor": [
+      265,
+      278
+    ],
+    "art": "<path d=\"M245 508V172q0-88 62-88 64 0 64 88v336Z\" fill=\"#389e79\" stroke=\"#23634f\" stroke-width=\"11\"/><path d=\"M241 326h-46q-43-2-43-61v-71q-4-47-35-43-27 4-27 43v75q0 122 99 122h56\" fill=\"#389e79\" stroke=\"#23634f\" stroke-width=\"11\"/><path d=\"M371 272h38q37 0 37-47v-55q0-45 35-40 27 4 27 41v57q0 104-92 104h-45\" fill=\"#389e79\" stroke=\"#23634f\" stroke-width=\"11\"/><g stroke=\"#7fdda7\" stroke-width=\"8\" opacity=\".65\"><path d=\"M278 149v340M314 117v370M349 152v332M125 211v80M482 181v57\"/></g><g stroke=\"#f0d8a5\" stroke-width=\"4\" stroke-linecap=\"round\"><path d=\"M259 232l-18-10M350 254l18-12M281 349l-19 10M336 405l16 12M119 243l-16-5M486 223l15-5\"/></g><path d=\"M196 482h226l-22 76H215Z\" fill=\"#c47e5b\" stroke=\"#7a4b39\" stroke-width=\"10\"/><ellipse cx=\"309\" cy=\"485\" rx=\"120\" ry=\"23\" fill=\"#ecad7b\"/>",
+    "bg": [
+      "#284c45",
+      "#152b34"
+    ]
+  },
+  {
+    "id": "cicek",
+    "answer": "Ayçiçeği",
+    "category": "Doğa",
+    "options": [
+      "Papatya",
+      "Ayçiçeği",
+      "Lale",
+      "Kasımpatı"
+    ],
+    "hint": "Yüzünü güneşe dönmesiyle ünlü.",
+    "fun": "Genç ayçiçeklerinin yönelimi gün boyunca güneşi izleyebilir.",
+    "anchor": [
+      363,
+      244
+    ],
+    "art": "<path d=\"M299 400v171\" stroke=\"#4b9958\" stroke-width=\"30\" stroke-linecap=\"round\"/><path d=\"M295 480q-100-85-159-37 43 81 159 55m10 22q92-94 167-56-49 83-167 69\" fill=\"#41975e\"/>\n<g fill=\"#f4c647\" stroke=\"#c8892b\" stroke-width=\"5\"><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(30 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(60 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(90 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(120 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(150 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(180 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(210 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(240 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(270 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(300 300 300)\"/><ellipse cx=\"300\" cy=\"147\" rx=\"38\" ry=\"103\" transform=\"rotate(330 300 300)\"/></g><circle cx=\"300\" cy=\"300\" r=\"112\" fill=\"#673c29\" stroke=\"#b17238\" stroke-width=\"12\"/><g fill=\"#e1ae67\"><circle cx=\"255\" cy=\"256\" r=\"8\"/><circle cx=\"302\" cy=\"248\" r=\"8\"/><circle cx=\"349\" cy=\"261\" r=\"8\"/><circle cx=\"234\" cy=\"305\" r=\"8\"/><circle cx=\"277\" cy=\"301\" r=\"8\"/><circle cx=\"323\" cy=\"303\" r=\"8\"/><circle cx=\"365\" cy=\"303\" r=\"8\"/><circle cx=\"252\" cy=\"352\" r=\"8\"/><circle cx=\"303\" cy=\"357\" r=\"8\"/><circle cx=\"350\" cy=\"351\" r=\"8\"/></g>",
+    "bg": [
+      "#42553b",
+      "#182a31"
+    ]
+  },
+  {
+    "id": "pil",
+    "answer": "Pil",
+    "category": "Teknoloji",
+    "options": [
+      "Pil",
+      "USB bellek",
+      "Kibrit",
+      "Termometre"
+    ],
+    "hint": "Enerjisini cebinde taşırsın.",
+    "fun": "Alkalin pillerde kimyasal enerji elektrik enerjisine dönüştürülür.",
+    "anchor": [
+      298,
+      285
+    ],
+    "art": "<g transform=\"rotate(-23 300 300)\"><rect x=\"216\" y=\"103\" width=\"168\" height=\"444\" rx=\"40\" fill=\"#2b384f\" stroke=\"#0a182e\" stroke-width=\"12\"/><rect x=\"235\" y=\"123\" width=\"130\" height=\"406\" rx=\"20\" fill=\"url(#battery)\"/><rect x=\"257\" y=\"76\" width=\"86\" height=\"36\" rx=\"7\" fill=\"#d3dce6\" stroke=\"#536d82\" stroke-width=\"8\"/><rect x=\"234\" y=\"130\" width=\"132\" height=\"101\" rx=\"15\" fill=\"#f5b95d\"/><path d=\"M270 301l47-72-8 59h41l-62 99 13-80Z\" fill=\"#f7eec2\" stroke=\"#d4bc77\" stroke-width=\"4\"/><path d=\"M261 165h78\" stroke=\"#f9e9a0\" stroke-width=\"13\" stroke-linecap=\"round\"/><rect x=\"242\" y=\"477\" width=\"116\" height=\"43\" rx=\"10\" fill=\"#344960\"/></g>",
+    "bg": [
+      "#33465c",
+      "#172236"
+    ]
+  },
+  {
+    "id": "kilit",
+    "answer": "Asma kilit",
+    "category": "Eşya",
+    "options": [
+      "Asma kilit",
+      "Çanta tokası",
+      "Zil",
+      "Kapı kolu"
+    ],
+    "hint": "Açılmak için doğru şeyi bekler.",
+    "fun": "Asma kilitlerde kilit gövdesi ve U biçimli kanca birlikte çalışır.",
+    "anchor": [
+      303,
+      344
+    ],
+    "art": "<path d=\"M207 267V176q0-95 93-95 93 0 93 95v91\" stroke=\"#98aebe\" stroke-width=\"57\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M207 267V176q0-95 93-95 93 0 93 95v91\" stroke=\"#e5f1ef\" stroke-width=\"19\" fill=\"none\" stroke-linecap=\"round\"/><rect x=\"158\" y=\"242\" width=\"284\" height=\"267\" rx=\"43\" fill=\"url(#gold)\" stroke=\"#9c6f38\" stroke-width=\"13\"/><circle cx=\"300\" cy=\"346\" r=\"38\" fill=\"#3b4554\"/><path d=\"M289 358l-17 67h55l-17-67Z\" fill=\"#3b4554\"/><path d=\"M195 297v158\" stroke=\"#ffecad\" stroke-width=\"15\" opacity=\".8\" stroke-linecap=\"round\"/>",
+    "bg": [
+      "#3f464c",
+      "#1c283b"
+    ]
+  },
+  {
+    "id": "kalem",
+    "answer": "Kurşun kalem",
+    "category": "Eşya",
+    "options": [
+      "Kurşun kalem",
+      "Boya fırçası",
+      "Tükenmez kalem",
+      "Tebeşir"
+    ],
+    "hint": "Ucu kısaldıkça düşünceler uzar.",
+    "fun": "Günlük dilde kurşun kalem denir ama çekirdeği çoğunlukla grafit ve kilden yapılır.",
+    "anchor": [
+      279,
+      266
+    ],
+    "art": "<g transform=\"rotate(34 300 300)\"><rect x=\"240\" y=\"79\" width=\"120\" height=\"354\" fill=\"#ffcb6c\" stroke=\"#b48740\" stroke-width=\"9\"/><rect x=\"255\" y=\"79\" width=\"28\" height=\"353\" fill=\"#ffe7a3\" opacity=\".9\"/><rect x=\"341\" y=\"79\" width=\"19\" height=\"353\" fill=\"#d89a43\"/><path d=\"M240 433l60 118 60-118Z\" fill=\"#dbb28c\" stroke=\"#a4785e\" stroke-width=\"8\"/><path d=\"M282 519l18 32 18-32Z\" fill=\"#323b4d\"/><rect x=\"238\" y=\"70\" width=\"124\" height=\"50\" rx=\"8\" fill=\"#a9becb\" stroke=\"#6d8193\" stroke-width=\"8\"/><rect x=\"242\" y=\"39\" width=\"116\" height=\"53\" rx=\"13\" fill=\"#f19aa7\" stroke=\"#c77c89\" stroke-width=\"7\"/><g stroke=\"#eef0e3\" stroke-width=\"4\"><path d=\"M260 76v35M300 76v35M337 76v35\"/></g></g>",
+    "bg": [
+      "#3b475b",
+      "#1a263a"
+    ]
+  }
+]
