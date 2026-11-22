@@ -117,6 +117,12 @@ $('start-btn').addEventListener('click',startRound);$('again-btn').addEventListe
 document.addEventListener('keydown',e=>{if(!document.getElementById('game-screen').classList.contains('active')||e.altKey||e.ctrlKey||e.metaKey)return;if(e.key>='1'&&e.key<='4'&&!state.locked){document.querySelectorAll('#answers button')[Number(e.key)-1]?.click()}if((e.key===' '||e.key==='ArrowDown')&&!state.locked){e.preventDefault();$('reveal-btn').click()}});
 window.addEventListener('load',notifyHeight);if('ResizeObserver' in window)new ResizeObserver(notifyHeight).observe(document.body);
 })();
+/* canonical */
+let ref = document.referrer, canonical = document.querySelector("link[rel='canonical']").getAttribute("href");
+if (!ref || !ref.match(/wolkanca/)) {
+	window.location.href = canonical;
+}
+/* canonical */
 </script>
 </body>
 </html>
