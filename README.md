@@ -68,3 +68,12 @@ Oyunu yerel tarayıcıda başlatıp tüm 10 soruluk turu, ipuçlarını, yakınl
 Gerçek makro fotoğraf modu; seviye/durum kartları, günlük meydan okuma, skor tablosu ve paylaşılabilir OG görseli.
 
 Tüm SVG illüstrasyonlar oyun için sıfırdan üretilmiştir. Bu sürüm dışarıdan fotoğraf kullanmaz.
+
+
+## Oyunlar: 
+- https://wolkanca.com/gercek-haber-mi-uydurma-mi-bu-haberlerin-hangisine-inanirsin
+- https://wolkanca.com/gercek-mi-yapay-zeka-mi-quiz-oyun
+- https://wolkanca.com/yakinlastirilmis-nesneyi-bul-bu-gorselde-ne-var-oyun
+- https://wolkanca.com/turkiyeyi-ne-kadar-taniyorsun-sehir-tahmin-oyunu
+- https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz
+
